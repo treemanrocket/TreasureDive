@@ -14,13 +14,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - treasure
+  - enemy
+  - spawner
+  - player
+  - haroon
+  - bubble
+  - teleporter
   - 
   - 
   - 
